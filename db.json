@@ -135,5 +135,43 @@
       "correctOption": 3,
       "points": 20
     }
+  ],
+  "cities": [
+    {
+      "id": "70a2",
+      "cityName": "Paradinas de San Juan",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-01T08:36:01.977Z",
+      "notes": "",
+      "position": {
+        "lat": "40.96330795307353",
+        "lng": "-5.185546875000001"
+      }
+    },
+    {
+      "id": "4d0a",
+      "cityName": "Landos",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-10-01T08:42:30.228Z",
+      "notes": "",
+      "position": {
+        "lat": "44.84029065139799",
+        "lng": "3.8452148437500004"
+      }
+    },
+    {
+      "id": "0051",
+      "cityName": "Siguenza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-10-11T07:41:14.153Z",
+      "notes": "",
+      "position": {
+        "lat": "41.09591205639546",
+        "lng": "-2.65869140625"
+      }
+    }
   ]
 }
